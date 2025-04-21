@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sorri\\OneDrive\\Desktop\\N\u00E3o sei\\TCC-entregue\\TCC\\GOCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16A32191-E0F9-4CC8-B14E-84FD819202F6}|GO.csproj|C:\\Users\\sorri\\OneDrive\\Desktop\\N\u00E3o sei\\TCC-entregue\\TCC\\GOCompany\\menu_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16A32191-E0F9-4CC8-B14E-84FD819202F6}|GO.csproj|solutionrelative:menu_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A32191-E0F9-4CC8-B14E-84FD819202F6}|GO.csproj|c:\\users\\sorri\\onedrive\\desktop\\n\u00E3o sei\\tcc-entregue\\tcc\\gocompany\\consultasmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A32191-E0F9-4CC8-B14E-84FD819202F6}|GO.csproj|solutionrelative:consultasmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A32191-E0F9-4CC8-B14E-84FD819202F6}|GO.csproj|c:\\users\\sorri\\onedrive\\desktop\\n\u00E3o sei\\tcc-entregue\\tcc\\gocompany\\menu_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A32191-E0F9-4CC8-B14E-84FD819202F6}|GO.csproj|solutionrelative:menu_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A32191-E0F9-4CC8-B14E-84FD819202F6}|GO.csproj|c:\\users\\sorri\\onedrive\\desktop\\n\u00E3o sei\\tcc-entregue\\tcc\\gocompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A32191-E0F9-4CC8-B14E-84FD819202F6}|GO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultasMySQL.cs",
+              "DocumentMoniker": "C:\\Users\\sorri\\OneDrive\\Desktop\\N\u00E3o sei\\TCC-entregue\\TCC\\GOCompany\\ConsultasMySQL.cs",
+              "RelativeDocumentMoniker": "ConsultasMySQL.cs",
+              "ToolTip": "C:\\Users\\sorri\\OneDrive\\Desktop\\N\u00E3o sei\\TCC-entregue\\TCC\\GOCompany\\ConsultasMySQL.cs",
+              "RelativeToolTip": "ConsultasMySQL.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAqwLwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:12:39.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu_Principal.cs",
+              "DocumentMoniker": "C:\\Users\\sorri\\OneDrive\\Desktop\\N\u00E3o sei\\TCC-entregue\\TCC\\GOCompany\\Menu_Principal.cs",
+              "RelativeDocumentMoniker": "Menu_Principal.cs",
+              "ToolTip": "C:\\Users\\sorri\\OneDrive\\Desktop\\N\u00E3o sei\\TCC-entregue\\TCC\\GOCompany\\Menu_Principal.cs",
+              "RelativeToolTip": "Menu_Principal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:54:43.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu_Principal.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\sorri\\OneDrive\\Desktop\\N\u00E3o sei\\TCC-entregue\\TCC\\GOCompany\\Menu_Principal.cs",
+              "RelativeDocumentMoniker": "Menu_Principal.cs",
+              "ToolTip": "C:\\Users\\sorri\\OneDrive\\Desktop\\N\u00E3o sei\\TCC-entregue\\TCC\\GOCompany\\Menu_Principal.cs [Projeto]",
+              "RelativeToolTip": "Menu_Principal.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:54:37.624Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sorri\\OneDrive\\Desktop\\N\u00E3o sei\\TCC-entregue\\TCC\\GOCompany\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sorri\\OneDrive\\Desktop\\N\u00E3o sei\\TCC-entregue\\TCC\\GOCompany\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:38:32.558Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\ControlesMySQL\bin\Debug\net8.0\ControlesMySQL.exe
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\ControlesMySQL\bin\Debug\net8.0\ControlesMySQL.deps.json
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\ControlesMySQL\bin\Debug\net8.0\ControlesMySQL.runtimeconfig.json
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\ControlesMySQL\bin\Debug\net8.0\ControlesMySQL.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\ControlesMySQL\bin\Debug\net8.0\ControlesMySQL.pdb
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\ControlesMySQL\obj\Debug\net8.0\ControlesMySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\ControlesMySQL\obj\Debug\net8.0\ControlesMySQL.AssemblyInfoInputs.cache
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\ControlesMySQL\obj\Debug\net8.0\ControlesMySQL.AssemblyInfo.cs
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\ControlesMySQL\obj\Debug\net8.0\ControlesMySQL.csproj.CoreCompileInputs.cache
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\ControlesMySQL\obj\Debug\net8.0\ControlesMySQL.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\ControlesMySQL\obj\Debug\net8.0\refint\ControlesMySQL.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\ControlesMySQL\obj\Debug\net8.0\ControlesMySQL.pdb
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\ControlesMySQL\obj\Debug\net8.0\ControlesMySQL.genruntimeconfig.cache
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\ControlesMySQL\obj\Debug\net8.0\ref\ControlesMySQL.dll
